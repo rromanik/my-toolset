@@ -1,6 +1,12 @@
 # My toolset
 This repository is intended to contain list of tools (build tools, libraries, frameworks, etc.) that I use in my daily work.
 
+## Programming Languages
+### Java
+Website: https://www.java.com/en/
+
+Download: https://www.oracle.com/java/technologies/downloads/ (Oracle Java SE); https://adoptium.net/temurin/releases (Eclipse Temurin)
+
 ## Build tools
 ### Maven
 Website: https://maven.apache.org/
