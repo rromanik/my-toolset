@@ -1,6 +1,29 @@
 # My toolset
 This repository is intended to contain list of tools (build tools, libraries, frameworks, etc.) that I use in my daily work.
 
+## Build tools
+### Maven
+Website: https://maven.apache.org/
+
+Documentation: https://maven.apache.org/guides/
+
+Release notes: https://maven.apache.org/docs/history.html
+
+Releases: https://maven.apache.org/docs/history.html
+
+Repository: https://github.com/apache/maven
+
+### Gradle
+Website: https://gradle.org/
+
+Documentation: https://docs.gradle.org/current/userguide/userguide.html
+
+Release notes: https://docs.gradle.org/current/release-notes.html
+
+Releases: https://gradle.org/releases/
+
+Repository: https://github.com/gradle/gradle
+
 ## Libraries
 ### JUnit 5
 Website: https://junit.org/junit5/
