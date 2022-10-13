@@ -28,6 +28,19 @@ Repository: https://github.com/cbeust/testng
 
 Maven central repository: https://mvnrepository.com/artifact/org.testng
 
+### Rest-Assured
+Website: https://rest-assured.io/
+
+Documentation: https://github.com/rest-assured/rest-assured/wiki/GettingStarted
+
+Release notes: https://rest-assured.io/#release-notes (see also https://github.com/rest-assured/rest-assured/blob/master/changelog.txt)
+
+Releases: https://github.com/rest-assured/rest-assured/tags
+
+Repositories: https://github.com/rest-assured/rest-assured
+
+Maven central repository: https://mvnrepository.com/artifact/io.rest-assured
+
 ### Selenium WebDriver
 Website: https://www.selenium.dev/
 
@@ -41,18 +54,18 @@ Repositories: https://github.com/SeleniumHQ/selenium; https://github.com/Seleniu
 
 Maven central repository: https://mvnrepository.com/artifact/org.seleniumhq.selenium
 
-### Rest-Assured
-Website: https://rest-assured.io/
+### Jackson
+Website: https://github.com/FasterXML/jackson (see also http://fasterxml.com/)
 
-Documentation: https://github.com/rest-assured/rest-assured/wiki/GettingStarted
+Documentation: https://github.com/FasterXML/jackson-docs
 
-Release notes: https://rest-assured.io/#release-notes (see also https://github.com/rest-assured/rest-assured/blob/master/changelog.txt)
+Release notes: https://github.com/FasterXML/jackson-bom/blob/2.14/release-notes/VERSION-2.x; https://github.com/FasterXML/jackson/wiki/Jackson-Releases
 
-Releases: https://github.com/rest-assured/rest-assured/tags
+Releases: https://github.com/FasterXML/jackson/wiki/Jackson-Releases; https://github.com/FasterXML/jackson-bom/tags
 
-Repositories: https://github.com/rest-assured/rest-assured
+Repositories: https://github.com/FasterXML; https://github.com/FasterXML/jackson-bom
 
-Maven central repository: https://mvnrepository.com/artifact/io.rest-assured
+Maven central repository: https://mvnrepository.com/artifact/com.fasterxml.jackson.core
 
 ### Lombok
 Website: https://projectlombok.org/
