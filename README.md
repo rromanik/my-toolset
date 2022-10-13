@@ -28,6 +28,19 @@ Repository: https://github.com/cbeust/testng
 
 Maven central repository: https://mvnrepository.com/artifact/org.testng
 
+### Selenium WebDriver
+Website: https://www.selenium.dev/
+
+Documentation: https://www.selenium.dev/documentation/webdriver/
+
+Changelog: https://github.com/SeleniumHQ/selenium/blob/trunk/java/CHANGELOG
+
+Releases: https://github.com/SeleniumHQ/selenium/releases
+
+Repositories: https://github.com/SeleniumHQ/selenium; https://github.com/SeleniumHQ
+
+Maven central repository: https://mvnrepository.com/artifact/org.seleniumhq.selenium
+
 ### Lombok
 Website: https://projectlombok.org/
 
