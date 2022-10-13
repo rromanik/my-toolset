@@ -107,3 +107,15 @@ Repository: https://github.com/lightbend/config
 
 Maven central repository: https://mvnrepository.com/artifact/com.typesafe/config
 
+### Cucumber
+Website: https://cucumber.io/
+
+Documentation: https://cucumber.io/docs/cucumber/
+
+Changelog: https://github.com/cucumber/cucumber-jvm/blob/main/CHANGELOG.md
+
+Releases: https://github.com/cucumber/cucumber-jvm/releases
+
+Repositories: https://github.com/cucumber (see also https://github.com/cucumber/cucumber-jvm)
+
+Maven central repository: https://mvnrepository.com/artifact/io.cucumber
