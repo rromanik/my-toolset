@@ -41,6 +41,19 @@ Repositories: https://github.com/SeleniumHQ/selenium; https://github.com/Seleniu
 
 Maven central repository: https://mvnrepository.com/artifact/org.seleniumhq.selenium
 
+### Rest-Assured
+Website: https://rest-assured.io/
+
+Documentation: https://github.com/rest-assured/rest-assured/wiki/GettingStarted
+
+Release notes: https://rest-assured.io/#release-notes (see also https://github.com/rest-assured/rest-assured/blob/master/changelog.txt)
+
+Releases: https://github.com/rest-assured/rest-assured/tags
+
+Repositories: https://github.com/rest-assured/rest-assured
+
+Maven central repository: https://mvnrepository.com/artifact/io.rest-assured
+
 ### Lombok
 Website: https://projectlombok.org/
 
