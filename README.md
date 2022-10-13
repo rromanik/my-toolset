@@ -80,3 +80,17 @@ Releases: https://github.com/projectlombok/lombok/tags
 Repository: https://github.com/projectlombok/lombok
 
 Maven central repository: https://mvnrepository.com/artifact/org.projectlombok/lombok
+
+### Typesafe Config
+Website: https://lightbend.github.io/config/
+
+Documentation: https://github.com/lightbend/config
+
+Release notes: https://github.com/lightbend/config/blob/main/NEWS.md (see also https://github.com/lightbend/config#release-notes)
+
+Releases: https://github.com/lightbend/config/tags
+
+Repository: https://github.com/lightbend/config
+
+Maven central repository: https://mvnrepository.com/artifact/com.typesafe/config
+
