@@ -54,6 +54,19 @@ Repositories: https://github.com/SeleniumHQ/selenium; https://github.com/Seleniu
 
 Maven central repository: https://mvnrepository.com/artifact/org.seleniumhq.selenium
 
+### WebDriver manager
+Website: https://bonigarcia.dev/webdrivermanager/
+
+Documentation: https://bonigarcia.dev/webdrivermanager/
+
+Changelog: https://github.com/bonigarcia/webdrivermanager/blob/master/CHANGELOG.md
+
+Releases: https://github.com/bonigarcia/webdrivermanager/releases
+
+Repository: https://github.com/bonigarcia/webdrivermanager
+
+Maven central repository: https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager
+
 ### Jackson
 Website: https://github.com/FasterXML/jackson (see also http://fasterxml.com/)
 
